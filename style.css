@@ -1,0 +1,35 @@
+.container{
+	width: 1200px;
+	margin: 20px auto;
+	border:1px solid #fff;
+	background: #fff;
+	border-radius: 5px;
+	overflow: hidden;
+	-webkit-box-shadow: 0px 5px 7px -3px rgba(122,122,122,1);
+	-moz-box-shadow: 0px 5px 7px -3px rgba(122,122,122,1);
+	box-shadow: 0px 5px 7px -3px rgba(122,122,122,1);
+}
+
+header{
+	
+	height: 100px;
+	background: cover;
+	border-bottom: 5px solid #0C8FBF;
+	
+}
+header .header_content{
+	padding: 10px;
+	text-align: center;
+	padding-top: 20px;
+	text-transform: uppercase;
+	color:#c0392b;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+button {
+	margin: 10px;
+}
