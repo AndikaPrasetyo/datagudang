@@ -33,7 +33,7 @@ session_start();
                 <?php
                 if (empty($_SESSION['email'])) { ?>
                     <li class="nav-link">
-                        <a class="nav-link" href="login">Login</a>
+                        <a class="nav-link" href="login.php">Login</a>
                     </li>
                 <?php } else { ?>
 					<li class="nav-link text-center">
